@@ -13,7 +13,7 @@
 
         
         header {
-            background-color: #2c3e50;
+            background-color: #67839f;
             color: white;
             padding: 20px 40px;
             display: flex;
@@ -34,12 +34,12 @@
         }
 
         .social-links a:hover {
-            color: #1abc9c;
+            color: #65b7e1;
         }
 
         
         nav {
-            background-color: #1abc9c;
+            background-color: #64b4e2;
         }
 
         nav ul {
@@ -56,7 +56,7 @@
         }
 
         nav ul li a:hover {
-            background-color: #16a085;
+            background-color: #acbfe8;
         }
         .container {
             display: flex;
@@ -123,7 +123,7 @@
         }
 
         .box-content h2 {
-            color: #1abc9c;
+            color: #4e85d3;
             margin-bottom: 10px;
         }
 
@@ -134,7 +134,7 @@
 
     
         footer {
-            background-color: #2c3e50;
+            background-color: #506f8d;
             color: white;
             text-align: center;
             padding: 20px;

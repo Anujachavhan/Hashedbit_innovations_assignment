@@ -11,7 +11,7 @@ function Calculator() {
       setResult("Please enter both numbers");
       return;
     }
-
+        
     const a = Number(num1);
     const b = Number(num2);
 
